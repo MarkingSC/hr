@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.11" encoding="utf-8"?>
 <!-- © 2016 OpenSynergy Indonesia
      License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html). -->
 
-<openerp>
+<odoo>
 <data>
 
 <record id="form_hr_employee_references" model="ir.ui.view">
@@ -19,4 +19,4 @@
 </record>
 
 </data>
-</openerp>
+</odoo>
